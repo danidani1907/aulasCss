@@ -1,0 +1,18 @@
+/* adicionando css  */
+/* com seletor 'tag' */
+h1{color: blueviolet;
+font-size: 39px;}
+p{
+    font-weight: bold;
+}
+
+/* adicionando css com seletor id*/
+/* ID não pode ser compartilhado */
+#p1{
+    color: violet; font-weight:normal;
+}
+/* adicionando CSS com seletor 'class   */
+    .p-texto{
+        color: orchid; font-weight: normal;
+    }
+
