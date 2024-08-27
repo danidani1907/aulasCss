@@ -1,0 +1,9 @@
+.posicao{
+    width: 200px;
+    height: 200px;
+    background-color: lightcoral;
+    border-bottom: 3px dashed darkorchid ;
+}
+.static{
+    border-right: 5px solid lightcyan;
+}
