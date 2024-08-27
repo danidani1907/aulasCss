@@ -1,0 +1,36 @@
+.position{
+    width:200px;
+    height: 100px;
+    background-color: pink;
+    border-bottom: 2px solid plum;
+}
+.static{
+    position: static;
+}
+.relative{
+    position: relative;
+    background-color: palevioletred;
+    top: 50px;
+    left: 20px;
+}
+.absolute{
+    position: absolute;
+    background-color: lightcoral;
+    top: 0;
+    right: 0;
+}
+.mini-div{
+    width: 30px;
+    height: 30px;
+    border:2px dotted yellow;
+    top: 0;
+    left: 0;
+}
+.fixed{
+    position: fixed;
+    width: 50px;
+    height: 50px;
+    background-color: blue;
+    right: 50px;
+    bottom: 50px;
+}
