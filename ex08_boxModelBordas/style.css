@@ -1,0 +1,44 @@
+body {
+    /* local de mecher na margem */
+    margin: 0;
+    margin-top:90px ;
+    margin-left: 100px;
+}
+
+.boxmodel{
+    width: 200px;
+    height: 200px;
+    background-color: plum;
+    /* espaçamento depois do conteudo */
+    padding: 30px 30px;
+    /* linha que fica após o padding */
+    border: 30px solid pink;
+    border-left: 15px dotted lightblue;
+    border-right-style double:;
+     border-radius:100px;
+     margin: 50px 50px;
+
+    }
+    body {
+        /* local de mecher na margem */
+        margin: 0;
+        margin-top:90px ;
+        margin-left: 100px;
+    }
+    
+    .boxmodel2{
+        width: 200px;
+        height: 200px;
+        background-color: pink;
+        /* espaçamento depois do conteudo */
+        padding: 30px 30px;
+        /* linha que fica após o padding */
+        border: 30px solid lightblue;
+        border-left: 15px dotted plum;
+        border-right-style double:;
+         border-radius:100px;
+         margin: 50px 50px;
+    
+    
+        }
+    
